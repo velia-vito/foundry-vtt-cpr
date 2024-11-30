@@ -1,0 +1,16 @@
+{
+    "id": "cp-red",
+    "title": "PlayRED: An implementation of Cyberpunk RED & The Edgerunner Mission Tool",
+    "description": "An unofficial implementation of the Cyberpunk: RED TTRPG Systems under the homebrew policy of R. Talsorian Games.",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": 12,
+        "verified": 12
+    },
+    "authors": [
+        {
+            "name": "velia-vito",
+            "url": "https://www.github.com/velia-vito"
+        }
+    ]
+}
